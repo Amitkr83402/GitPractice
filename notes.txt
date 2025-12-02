@@ -6,3 +6,5 @@ Adding a new line to make changes in git.
 Working on feature branch. 
 
 Pushed first repo to GitHub
+
+Learning how to push feature branches and make pull requests
