@@ -1,0 +1,2 @@
+Learning git, Day 1.
+Helo, this is an git practice file. 
